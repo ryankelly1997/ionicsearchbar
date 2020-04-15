@@ -1,0 +1,7 @@
+{
+  "name": "firebasedbtester",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
